@@ -1,0 +1,27 @@
+{
+  "name": "my-kit",
+  "version": "100.0.0",
+  "description": "my-tool-kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ziad esam",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.43.5"
+  },
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
